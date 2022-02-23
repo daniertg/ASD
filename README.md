@@ -1,1 +1,1 @@
-# Praktikum-algoritma-struktur-data
+# ini adalah respotori untuk praktikum algoritma struktur data

@@ -1,1 +1,1 @@
-# ini adalah respotori untuk praktikum algoritma struktur data
+# ini adalah repositori untuk praktikum algoritma struktur data

@@ -12,5 +12,6 @@ kata kunci new adalah yang akan kita gunakan untuk instasiasi dari sebuah class/
 tersebut? Sebutkan! Dan pada baris berapa saja deklarasi atribut dilakukan?</br>
 Atribut : </br>
  1.Nama Barang : String -> baris 13
- 2.
+ 2.jenis Barang : String -> baris 13
+ 
 

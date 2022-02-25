@@ -2,7 +2,7 @@
 Febrian dani ritonga (1G-12)
 Jobsheet II
 ## jawaban pertanyaan :
-### 2.23 
+### 2.23 Pertanyaan 
 1. Sebutkan 2 karakteristik class/objek!</br>
 a.kelas atau objek adalah sebuah gamabaran umum sebuah objek.Sehingga kelas/objek akan kita jadikan realisasi sebuah objek yg nyata.</br>
 b.Setiap class memiliki attribute dan method</br>

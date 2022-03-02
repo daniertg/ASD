@@ -55,6 +55,7 @@ Barang b3 = new Barang("Minyak kayu putih", "Obat", 3, 5000);
 ## Tugas 1
 ![Screenshot (18)](https://user-images.githubusercontent.com/87335182/156424085-e640f89d-7187-4d0b-9abc-1b1bdc9f5c20.png)
 ## Tugas 2
+![Screenshot (19)](https://user-images.githubusercontent.com/87335182/156426452-589c4cb5-f6e8-47b3-b790-246dd37070ea.png)
 
 
 

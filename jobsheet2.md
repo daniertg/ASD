@@ -51,6 +51,9 @@ Instansiasi konstruktor berparameter dengan nama objek baru yaitu b2
 ### 3. Coba buat objek dengan nama b3 dengan menggunakan konstruktor berparameter dari class Barang.  
 Barang b3 = new Barang("Minyak kayu putih", "Obat", 3, 5000);
 
+### 2.5 Latihan Praktikum
+
+
  
  
  

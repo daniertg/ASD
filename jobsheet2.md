@@ -19,8 +19,27 @@ Atribut : </br>
  2.tambahStok()      -> baris 23</br>
  3.kurangiStok()     -> baris 27</br>
  4.hitungHargaTotal  -> baris 31</br>
- ### 5.Perhatikan method ```kurangiStok()``` yang ada di class Barang, modifikasi isi method tersebutsehingga proses pengurangan hanya dilakukan jika stok masih ada (masih lebih besar dari 0)
- 
+ ### 5.Perhatikan method ```kurangiStok()``` yang ada di class Barang, modifikasi isi method tersebut sehingga proses pengurangan hanya dilakukan jika stok masih ada (masih lebih besar dari 0)
+code : 
+kurangiStok(int n) {</br>
+if (this.stok > 0){</br>
+this.stok = this.stok-n;</br>
+}else {</br>
+System.out.println("Status kurangi stok : Gagal")</br>
+}</br>
+}</br>
+
+### 6. Menurut anda, mengapa method ```tambahStok()``` dibuat dengan memiliki parameter int 
+karena, bila mengurangi stok maka membutuhkan suatu parameter berupa int yg digunakan sebagai tipe data mengurangi stok
+### 7. Menurut Anda, mengapa method hitungHargaTotal() memiliki tipe data int?
+karena , method tersebut akan memuat angka bulat 
+### 8. Menurut Anda, mengapa method tambahStok() memiliki tipe data void?
+karena, method tersebut akan menampilkan jumlah stok sebelumnya 
+
+# 2.3.3 Pertanyaan
+### 1. Pada class BarangMain, pada baris berapakah proses instansiasi dilakukan? Dan apa nama objek yang dihasilkan?
+
+### 2. Bagaimana cara mengakses atribut dan method dari suatu objek?
  
  
  

@@ -52,6 +52,10 @@ Instansiasi konstruktor berparameter dengan nama objek baru yaitu b2
 Barang b3 = new Barang("Minyak kayu putih", "Obat", 3, 5000);
 
 ### 2.5 Latihan Praktikum
+## Tugas 1
+![Screenshot (18)](https://user-images.githubusercontent.com/87335182/156424085-e640f89d-7187-4d0b-9abc-1b1bdc9f5c20.png)
+## Tugas 2
+
 
 
  

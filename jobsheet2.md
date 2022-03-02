@@ -38,8 +38,19 @@ karena, method tersebut akan menampilkan jumlah stok sebelumnya
 
 # 2.3.3 Pertanyaan
 ### 1. Pada class BarangMain, pada baris berapakah proses instansiasi dilakukan? Dan apa nama objek yang dihasilkan?
-
+instansiasi dilakukan terdapat pada baris 15, nama objeknya yaitu b1 
 ### 2. Bagaimana cara mengakses atribut dan method dari suatu objek?
+Dengan mengetikkan nama objek yang telah di instansiasi lalu ketikan atribut atau method. 
+     **Contoh: b2.harga, b1.hargaSatuan()**</br>
+## **SubBab 2.4**  
+### 1. Perhatikan class Barang yang ada di Praktikum 2.4.1, pada baris berapakah deklarasi 
+konstruktor berparameter dilakukan?  
+baris 18 
+### 2. Perhatikan class BarangMain di Praktikum 2.4.1, apa sebenarnya yang dilakukan pada baris program dibawah ini?  
+Instansiasi konstruktor berparameter dengan nama objek baru yaitu b2 
+### 3. Coba buat objek dengan nama b3 dengan menggunakan konstruktor berparameter dari class Barang.  
+Barang b3 = new Barang("Minyak kayu putih", "Obat", 3, 5000);
+
  
  
  

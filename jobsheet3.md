@@ -73,7 +73,6 @@
             }
         }
 ### 5)
-        java
         public class SegitigaMain{
             public static void main(String[] args){
                 Segitiga[] sgArray = new Segitiga[4];
@@ -98,7 +97,26 @@
                 }
             }
         }
-    
+        
+  
+# Latihan 1
+![Screenshot (33)](https://user-images.githubusercontent.com/87335182/157695606-048631a3-b8c3-4182-a751-4b49c494f692.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/87335182/157695748-dc4a0970-4765-4d7e-8222-e2b7c12f7931.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/87335182/157695771-e201859b-a77e-410d-94e6-2f82d32e27bf.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/87335182/157695876-9d3286e4-6483-42d0-9027-f53c6b5ec6c6.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/87335182/157695893-09e1e480-177d-434d-8eab-e94ac1585a16.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/87335182/157695908-bf5e1701-e5a8-42ca-8a77-bd32b10aa898.png)
+
+# Latihan 2
+![Screenshot (39)](https://user-images.githubusercontent.com/87335182/157696758-cfdd6489-451e-4ada-b630-674973c3031c.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/87335182/157696765-ea96511f-fa28-427d-a6de-000672c02562.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/87335182/157696770-25087e0d-c4ed-46c4-bf7c-9820bf022429.png)
+
+# Latihan 3
+![Screenshot (42)](https://user-images.githubusercontent.com/87335182/157697329-26e5e723-09f2-440c-aa79-9991f54e118e.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/87335182/157697343-ab73f77f-b1e3-4e81-a007-748dd7bfb8ab.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/87335182/157697353-1b133f68-8e22-4c9d-adad-4d6c50ff77ad.png)
+
     
     
     

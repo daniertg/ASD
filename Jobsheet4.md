@@ -9,7 +9,7 @@ While : </br>
 ![Screenshot (62)](https://user-images.githubusercontent.com/87335182/158925860-670ef8b3-2aed-413f-98ff-274a5a8a57a0.png)
 ### 4)
 ![Screenshot (64)](https://user-images.githubusercontent.com/87335182/158931110-2d40227d-e094-4f66-ab2e-adf4f7c7a4f3.png)
-### 5) ada 
+### 5) ada bruto force lebih cepat ketimbang divide and conquer
 ![Screenshot (67)](https://user-images.githubusercontent.com/87335182/158931965-f2515e45-b0bb-49e9-a9aa-c64161bc1d8f.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/87335182/158931975-b6062400-0f4c-4559-a8eb-54b6e7343ac4.png)
 

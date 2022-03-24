@@ -21,4 +21,16 @@ While : </br>
 ### 4.
 ![Screenshot (78)](https://user-images.githubusercontent.com/87335182/159823052-13728984-be2a-4f3a-97ee-57fd68c15493.png)
 ### 5.
+![Screenshot (84)](https://user-images.githubusercontent.com/87335182/159996110-40ed7a31-5453-48a8-b1c4-8b2374a6e093.png)
 
+# Pertanyaan 4.4.3
+### 1) TotalBF() lebih ringkas ketimbang TotalDC.
+### 2) Dengan cara mengganti syntax println menjadi syntax printf dan juga teknik pembatasan karakter.
+### 3)Return value tersebut berguna untuk mengembalikan nilai dari variable lsum,variable rsum dan juga arr [mid] yang mana masing-masing nya di jumlah kan terlebih dahulu.
+### 4) Di butuhkan variable mid pada method TotalDC() yakni guna menampng nilai dari perhitungan (1+r)/2 yang mana nantinya akan gi gunakan sebagai pengisian nilai pada parameter di method TotalDC().
+### 5)
+![Screenshot (90)](https://user-images.githubusercontent.com/87335182/160011319-05dfcdd0-9028-439d-bdc7-3dafd9f00d35.png)
+
+# Latihan 
+![Screenshot (91)](https://user-images.githubusercontent.com/87335182/160013434-1779ed71-f05f-4d2d-a9fc-2bc1687d120d.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/87335182/160013449-e65e6824-c944-42f4-829d-3494387197c6.png)

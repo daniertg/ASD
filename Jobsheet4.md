@@ -13,3 +13,12 @@ While : </br>
 ![Screenshot (67)](https://user-images.githubusercontent.com/87335182/158931965-f2515e45-b0bb-49e9-a9aa-c64161bc1d8f.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/87335182/158931975-b6062400-0f4c-4559-a8eb-54b6e7343ac4.png)
 
+# 4.3.3 Pertanyaan
+### 1. PangkatBF() iterativ sedangkan  PangkatDC()rekrusif
+### 2. apa bila n bernilai n maka di tambah perkalian variable a di bagian akhir sedangkan bila genap tidak
+### 3. sudah
+![Screenshot (76)](https://user-images.githubusercontent.com/87335182/159822328-fd3c8e9a-de68-49db-9654-23b8b5dd289e.png)
+### 4.
+![Screenshot (78)](https://user-images.githubusercontent.com/87335182/159823052-13728984-be2a-4f3a-97ee-57fd68c15493.png)
+### 5.
+

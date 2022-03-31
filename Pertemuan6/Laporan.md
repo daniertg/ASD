@@ -22,7 +22,7 @@ d. terdapat 49 loop dan 1225 Tahapan
          }
      }
      
-     Potongan kode ini adalah sebagai syarat untuk melakukan swap dimana apabila array pertama lebih sedikit daripada array dengan index idxMin = 1, maka indeks yang lebih besar maka akan menjadi indeks j
+Potongan kode ini adalah sebagai syarat untuk melakukan swap dimana apabila array pertama lebih sedikit daripada array dengan index idxMin = 1, maka indeks yang lebih besar maka akan menjadi indeks j
      
  # 5.4.3 Pertanyaan
  

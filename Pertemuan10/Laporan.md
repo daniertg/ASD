@@ -16,7 +16,8 @@
                          Q.Enqueue(datamasuk);
                          
 7. class
-    public int Enqueue(int dt) { 
+
+             public int Enqueue(int dt) { 
             if (IsFull()) { 
                     System.out.println("Queue sudah penuh"); 
                     return 0; 
@@ -35,6 +36,7 @@
                                                             }
                                                             
 classMain
+
                     case 1:
                     System.out.print("Masukkan data baru: ");
                     int dataMasuk = sc.nextInt();
